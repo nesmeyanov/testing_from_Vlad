@@ -1257,14 +1257,6 @@ p.another-welcome-text-color {
 	filter: brightness(55%);	
 }
 
-.slider-accident-item img:hover {
-	/* filter: brightness(55%); */
-}
-
-.slider-accident-item:hover{
-	/* filter: brightness(55%); */
-}
-
 .second-img:hover{
 	opacity: 0;
 	transition: .5s ease-out;
